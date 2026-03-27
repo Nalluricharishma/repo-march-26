@@ -7,3 +7,4 @@ hello git
 Hello Git 
 >>>>>>> 8f7d806025d581c6fc99a5ec7522d4807a0feb19
 >>>>>>> 9b82348ae7df2a0290f10624656ad10ddc9cbd2e
+Hotfix applied 
